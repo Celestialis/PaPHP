@@ -1,0 +1,6 @@
+Front Controller будет все контроллеры: MainController.php, OrderController.php, ProductController.php, UserController.php.
+Классы которые с ним взаимодействуют:
+MainController - содержит главную страницу, 
+OrderController - содержит корзину и оформление заказов, 
+ProductController - содержит информацию о продукте и список всех продуктов, 
+UserController - содержит аутентификацию, авторизацию и выход из системы.
